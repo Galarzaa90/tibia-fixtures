@@ -1,0 +1,2 @@
+# Captured responses must remain exactly as served, including whitespace.
+fixtures/**/*.html

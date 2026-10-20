@@ -1,0 +1,3 @@
+# Preserve captured HTML bytes when staging and checking out fixtures.
+fixtures/*.html -text -filter -ident
+fixtures/**/*.html -text -filter -ident
